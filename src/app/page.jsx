@@ -20,7 +20,7 @@ export default function Home() {
       </FadeIn>
     </Container>
     <Clients/>
-    <Testimonials className="mt-24 sm:mt-32 lg:mt-40 client" client={{ name: "Michael Joseph", logo: logoPhobiaDark }}>
+    <Testimonials className="mt-24 sm:mt-32 lg:mt-40 client" client={{ name: "Phobia", logo: logoPhobiaDark }}>
     I have had the privilege of knowing Gitonga Kabugi for many years, and I can wholeheartedly attest to his extraordinary commitment to both the business and public service spheres. Mr Gitonga embodies the qualities of a true leader: vision, integrity, and an unwavering dedication to improving the lives of those he serves.
     </Testimonials>
     <Services/>
