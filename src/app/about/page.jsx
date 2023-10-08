@@ -8,9 +8,9 @@ import React from 'react'
 const AboutPage = () => {
   return (
     <>
-   <PageIntro eyebrow="Biography" title="Mission & Vision">
+   <PageIntro eyebrow="Servant Leadership" title="Mission & Vision">
      <p>
-     Gitonga Kabugi is a dynamic and multifaceted leader, widely recognized for their outstanding contributions to both the business world and public service. With an unwavering commitment to making a positive impact on society, Gitonga kabugi has achieved remarkable success in various spheres of life.
+     Biography
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
@@ -18,7 +18,7 @@ const AboutPage = () => {
           growth has earned them a reputation as a trailblazer in the corporate world.
           </p>
           <p>
-          In their role as Deputy Governor, Gitonga Kabugi has translated their visionary leadership into public service. With a deep sense of duty and a focus on improving the lives of citizens, Gitonga Kabugi has spearheaded numerous initiatives and policies that have positively transformed their jurisdiction. Their dedication to public welfare, coupled with their ability to bridge divides and foster cooperation, has made Gitonga Kabugi an invaluable asset to the community and the region as a whole.
+          In his role as Deputy Governor, Gitonga Kabugi has translated his visionary leadership into public service. With a deep sense of duty and a focus on improving the lives of citizens, Gitonga Kabugi has spearheaded numerous initiatives and policies that have positively transformed their jurisdiction. Their dedication to public welfare, coupled with their ability to bridge divides and foster cooperation, has made Gitonga Kabugi an invaluable asset to the community and the region as a whole.
           </p>
           <p>
           Gitonga Kabugi  is not just a business tycoon and public servant but also a staunch advocate for social responsibility and community development. Their commitment to philanthropy and community engagement has touched the lives of many, leaving a lasting legacy of positive change.

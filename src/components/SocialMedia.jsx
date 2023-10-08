@@ -15,14 +15,10 @@ export const SocialMediaProfiles = [
         href: "https://",
         icon: BsYoutube,
     },
-    {
-        title: "Github",
-        href: "https://",
-        icon: BsGithub,
-    },
+    
     {
         title: "Facebook",
-        href: "https://",
+        href: "https://www.facebook.com/ejjaygitonga?_rdc=1&_rdr",
         icon: BsFacebook,
     },
     {
@@ -32,12 +28,12 @@ export const SocialMediaProfiles = [
     },
     {
         title: "Twitter",
-        href: "https://",
+        href: "https://twitter.com/GitongaKabugi",
         icon: BsTwitter,
     },
     {
         title: "LinkedIn",
-        href: "https://",
+        href: "",
         icon: BsLinkedin,
     },
 ]

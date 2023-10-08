@@ -96,8 +96,8 @@ const Navigation = () => {
        <NavigationItem href={"/about"}>Events</NavigationItem>
     </NavigationRow>
     <NavigationRow>
-       <NavigationItem href={"/process"}>Community Engagement</NavigationItem>
-       <NavigationItem href={"/process"}>Resources</NavigationItem>
+       <NavigationItem href={"/community"}>Community Engagement</NavigationItem>
+       <NavigationItem href={"/community"}>Resources</NavigationItem>
       
     </NavigationRow>
     <NavigationRow>

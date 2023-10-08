@@ -5,27 +5,17 @@ import { TagList, TagListItem } from './TagList';
 
 const Discover = () => {
   return (
-    <Section title="discover" image={{ src:imageWhiteboard, shape:1 }}>
+    <Section title="Social Impact" image={{ src:imageWhiteboard, shape:1 }}>
            <div className="space-y-6 text-base text-neutral-600">
         <p>
-          We work closely with our clients to understand their{" "}
-          <strong className="font-semibold text-neutral-950">needs</strong> and
-          goals, embedding ourselves in their every day operations to understand
-          what makes their business tick.
+        As a company founder,  Mr Gitonga has championed responsible <strong className="font-semibold text-neutral-950">business practices,</strong>  ensuring that their enterprises not only thrive financially but also contribute to the betterment of society. Gitonga Kabugi's businesses serve as beacons of corporate social responsibility, setting high standards for ethical conduct, environmental sustainability, and community engagement.
         </p>
         <p>
-          Our team of private investigators shadow the company director’s for
-          several weeks while our account managers focus on going through their
-          trash. Our senior security experts then perform social engineering
-          hacks to gain access to their{" "}
-          <strong className="font-semibold text-neutral-950">business</strong>
-          accounts — handing that information over to our forensic accounting
-          team.
+        In his role as Deputy Governor, Gitonga Kabugi   leveraged his leadership position to implement policies and initiatives that drove social progress. 
+        His approach is rooted in inclusivity, equity, and empathy. Mr Gitonga actively seeks input from diverse stakeholders, working collaboratively to develop solutions that address the most pressing issues facing the community. He prioritize the well-being of vulnerable populations, striving to create a more just and equitable society for all.
         </p>
         <p>
-          Once the full audit is complete, we report back with a comprehensive
-          <strong className="font-semibold text-neutral-950">plan</strong> and,
-          more importantly, a budget.
+        He don't merely advocate from the sidelines; He roll up his sleeves and actively participate in initiatives that lead to tangible change.
         </p>
       </div>
       <h3 className="mt-12 font-display text-base fonrt-semibold text-neutral-950">

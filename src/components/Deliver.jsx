@@ -5,7 +5,7 @@ import List, { ListItem } from "./List";
 
 const Deliver = () => {
   return (
-    <Section title="Deliver" image={{ src: imageMeeting, shape: 1 }}>
+    <Section title="Generation Conscious" image={{ src: imageMeeting, shape: 1 }}>
       <div className="space-y-6 text-base text-neutral-600">
         <p>
           About halfway through the Build phase, we push each project out by 6

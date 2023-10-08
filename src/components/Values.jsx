@@ -14,7 +14,7 @@ const Values = () => {
         />
       </div>
       <SectionIntro
-        eyebrow="Our values"
+        eyebrow="Community Engagement values"
         title="Balancing reliability and innovation"
       >
         <p>
