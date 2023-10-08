@@ -102,7 +102,7 @@ const Navigation = () => {
     </NavigationRow>
     <NavigationRow>
        <NavigationItem href={"/blog"}>Blog & Press</NavigationItem>
-       <NavigationItem href={"/blog"}>Contact</NavigationItem>
+       <NavigationItem href={"/contact"}>Contact</NavigationItem>
     </NavigationRow>
   </nav>
   )

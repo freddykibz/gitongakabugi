@@ -25,7 +25,7 @@ const NewsletterForm = () => {
                 Sign up our newsletter
             </h2>
             <p className='mt-4 text-sm text-neutral-700'>
-            Subscribe to get the latest design news, articles, resources and
+            Subscribe to get the latest articles, resources and
              inspiration.
             </p>
             <div className="relative mt-6">
@@ -65,11 +65,11 @@ const Footer = () => {
             <div className="mb-20 mt-24 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
                 <Link href={"/"} aria-label="Home">
                  <Logo className="h-8" fillOnHover>
-                    Studio
+                   Gitonga Kabugi
                 </Logo>
                 </Link>
                 <p className="text-sm text-neutral-700">
-                 © Studio Agency Inc. {new Date().getFullYear()}
+                 © Gitonga Kabugi {new Date().getFullYear()}
                 </p>
             </div>
         </FadeIn>

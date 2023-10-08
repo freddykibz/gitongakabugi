@@ -4,8 +4,8 @@ export const navigation = [
  {
     title: "Work",
     links: [
-        {title: "Amazon Clone", href: "/work/amazonclone"},
-        {title: "Bazaar E-commerce", href: "/work/bazar"},
+        {title: "Vision", href: "/work/vision"},
+        {title: "Companies & Investments", href: "/work/bazar"},
         { title: "Blog 101", href: "/work/blog101"},
         { 
             title: (
@@ -18,10 +18,10 @@ export const navigation = [
      ],
  },
  {
-    title: "Company",
+    title: "Companies",
     links: [
-      { title: "About", href: "/about" },
-      { title: "Process", href: "/process" },
+      { title: "GoldMilkdairy", href: "/about" },
+      { title: "NanyukiView", href: "/process" },
       { title: "Blog", href: "/blog" },
       { title: "Contact us", href: "/contact" },
     ],
