@@ -11,8 +11,8 @@ const Services = () => {
   return (
   <>
   <SectionIntro 
-  eyebrow="services"
-  title = "We help you identify, explore and respond to new opportunities."
+  eyebrow="Positions Of Service"
+  title = " His leadership style is marked by a unique blend of innovation, empathy, and a relentless commitment to positive change."
   className ="mt-24 sm:mt-32 lg:mt-40"
   >
   <p>
@@ -34,19 +34,29 @@ const Services = () => {
     </div>
     {/* listitem */}
      <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-[33rem] lg:pl-4">
-     <ListItem title="Web development">
+     <ListItem title="Founder GoldenMilk Dairies">
               We specialise in crafting beautiful, high quality marketing pages.
               The rest of the website will be a shell that uses lorem ipsum
               everywhere.
             </ListItem>
-            <ListItem title="Application development">
-              We have a team of skilled developers who are experts in the latest
-              app frameworks, like Angular 1 and Google Web Toolkit.
+            <ListItem title="Deputy Governor">
+            The new county government was sworn in on 2013. Kabugi was appointed
+            as a CEC member, Water, and Cooperatives, the two issues dear to his heart, and
+            which he thought would most likely bring transformative change to his people.  
+
             </ListItem>
-            <ListItem title="E-commerce">
-              We are at the forefront of modern e-commerce development. Which
-              mainly means adding your logo to the Shopify store template we’ve
-              used for the past six years.
+            <ListItem title="Political Career">
+            From his early days, Kabugi had kept close tabs on political developments in
+            Laikipia, and especially in Laikipia East Constituency.
+
+            </ListItem>
+            <ListItem title="Financial career">
+            Fresh from Strathmore, Kabugi joined First American Bank as an assistant financial
+        controller, a position in which he served for 2 years before leaving to join Multichoice
+         Africa (DSTV). At Multichoice, Kabugi headed the multinational’s operations in the
+           Coast region for two years.
+
+
             </ListItem>
             <ListItem title="Custom content management">
               At Studio we understand the importance of having a robust and

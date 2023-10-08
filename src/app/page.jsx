@@ -12,20 +12,16 @@ export default function Home() {
     <Container className="mt-24 sm:mt-32">
       <FadeIn className="max-w-3xl">
          <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-          Make your online presence a reality with us!
+         Gitonga Kabugi
          </h1>
          <p className="mt-6 text-xl text-neutral-600">
-            We are a group of developer working at the intersection of design
-            and technology. It is a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+          A dynamic and multifaceted leader, widely recognized for his outstanding contributions to both the business world and public service. 
           </p>
       </FadeIn>
     </Container>
     <Clients/>
-    <Testimonials className="mt-24 sm:mt-32 lg:mt-40 client" client={{ name: "Phobia", logo: logoPhobiaDark }}>
-    The team at Studio went above and beyond with our onboarding, even
-        finding a way to access the user microphone without triggering one of
-        those annoying permission dialogs.
+    <Testimonials className="mt-24 sm:mt-32 lg:mt-40 client" client={{ name: "Michael Joseph", logo: logoPhobiaDark }}>
+    I have had the privilege of knowing Gitonga Kabugi for many years, and I can wholeheartedly attest to his extraordinary commitment to both the business and public service spheres. Mr Gitonga embodies the qualities of a true leader: vision, integrity, and an unwavering dedication to improving the lives of those he serves.
     </Testimonials>
     <Services/>
     <ContactSection/>

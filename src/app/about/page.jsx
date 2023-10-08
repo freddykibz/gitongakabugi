@@ -8,13 +8,13 @@ import React from 'react'
 const AboutPage = () => {
   return (
     <>
-   <PageIntro eyebrow="Biography" title="Our strength is collaboration">
+   <PageIntro eyebrow="Biography" title="Mission & Vision">
      <p>
      Gitonga Kabugi is a dynamic and multifaceted leader, widely recognized for their outstanding contributions to both the business world and public service. With an unwavering commitment to making a positive impact on society, Gitonga kabugi has achieved remarkable success in various spheres of life.
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-          As a company founder, Gitonga Kabugi has demonstrated remarkable entrepreneurial acumen. They are the visionary force behind several successful enterprises, pioneering innovative solutions and creating job opportunities for countless individuals. Gitonga Kabugi's passion for business innovation and sustainable 
+          As a company founder, Gitonga Kabugi has demonstrated remarkable entrepreneurial acumen. he is the visionary force behind several successful enterprises, pioneering innovative solutions and creating job opportunities for countless individuals. Gitonga Kabugi's passion for business innovation and sustainable 
           growth has earned them a reputation as a trailblazer in the corporate world.
           </p>
           <p>
@@ -34,9 +34,9 @@ const AboutPage = () => {
    </PageIntro>
    <Container className="mt-16">
    <StatList>
-          <StatListItem value="35" label="Underpaid employees" />
-          <StatListItem value="52" label="Placated clients" />
-          <StatListItem value="$25M" label="Invoices billed" />
+          <StatListItem value="35 years" label="Private Sector" />
+          <StatListItem value="10 Years" label="Public Sector" />
+          <StatListItem value="$25M Projects" label="Direct Social Impact" />
         </StatList>
    </Container>
    <Cultures/>
