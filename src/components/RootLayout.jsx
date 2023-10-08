@@ -88,16 +88,16 @@ const Navigation = () => {
        <NavigationItem href={"/about"}>About</NavigationItem>
     </NavigationRow>
     <NavigationRow>
-       <NavigationItem href={"/work"}>Public Service</NavigationItem>
-       <NavigationItem href={"/about"}>Companies and Investments</NavigationItem>
+       <NavigationItem href={"/public-service"}>Public Service</NavigationItem>
+       <NavigationItem href={"/company"}>Companies and Investments</NavigationItem>
     </NavigationRow>
     <NavigationRow>
-       <NavigationItem href={"/work"}>Media</NavigationItem>
-       <NavigationItem href={"/about"}>Events</NavigationItem>
+       <NavigationItem href={"/media"}>Media</NavigationItem>
+       <NavigationItem href={"/events"}>Events</NavigationItem>
     </NavigationRow>
     <NavigationRow>
        <NavigationItem href={"/community"}>Community Engagement</NavigationItem>
-       <NavigationItem href={"/community"}>Resources</NavigationItem>
+       <NavigationItem href={"/resources"}>Resources</NavigationItem>
       
     </NavigationRow>
     <NavigationRow>
