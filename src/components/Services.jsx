@@ -58,10 +58,10 @@ const Services = () => {
 
 
             </ListItem>
-            <ListItem title="Custom content management">
-              At Studio we understand the importance of having a robust and
-              customised CMS. That’s why we run all of our client projects out
-              of a single, enormous Joomla instance.
+            <ListItem title="Professional Background">
+            In the field of water engineering, Gitonga kabugi has established himself as a respected authority. his expertise in this critical area is an asset to the community, 
+            particularly in addressing water resource management and environmental sustainability. Mr Gitonga has played a pivotal role in designing and implementing water infrastructure projects that ensure access to clean and safe water for all residents. Their 
+            work exemplifies a commitment to the health and well-being of the community and the responsible stewardship of natural resources.
             </ListItem>
      </List>
   </div>
