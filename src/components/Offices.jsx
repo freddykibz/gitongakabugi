@@ -19,13 +19,13 @@ function Office({ name, children, invert = false }) {
 const Offices = ({ invert = false, ...props }) => {
   return (
    <ul role="list" {...props}>
-    <li>
-      <Office name="KENYA" invert={invert} />
+    <li className="text-white">
+      <Office name="Nairobi" invert={invert} />
       at GTC
       <br/>
       Upperhill Nairobi Kenya
     </li>
-    <li><Office name="KENYA" invert={invert} />
+    <li className="text-white"><Office name="Nanyuki" invert={invert} />
       Crown Plaza
       <br/>
       Westlands Nairobi Kenya
