@@ -8,29 +8,28 @@ const  Build = ({}) => {
     <Section title="Economic Impact" image={{ src: imageLaptop, shape:2 }}>
         <div className="space-y-6 text-base text-neutral-600">
         <p>
-          Based off of the discovery phase, we develop a comprehensive roadmap
-          for each product and start working towards delivery. The roadmap is an
-          intricately tangled mess of technical nonsense designed to drag the
-          project out as long as possible.
+        Mr Gitonga understands that a thriving community relies on a strong and sustainable economy. As a company founder,
+         he have harnessed their entrepreneurial spirit to create businesses that generate jobs, stimulate economic growth, and provide 
+         opportunities for local residents. Their businesses are more than just profit-making enterprises;
+          they are engines of economic empowerment, 
+        contributing to the financial well-being of countless individuals and families.
         </p>
         <p>
-          Each client is assigned a key account manager to keep lines of
-          communication open and obscure the actual progress of the project.
-          They act as a buffer between the client’s incessant nagging and the
-          development team who are hard at work scouring open source projects
-          for code to re-purpose.
+        In his role as Deputy Governor, Mr Gitonga has taken his commitment to economic impact to a new level. 
+        he tirelessly advocate for policies and initiatives that promote business development, attract investments, and enhance the overall 
+        economic ecosystem of our region. Their leadership has resulted in tangible improvements in employment rates, 
+        increased access to economic resources, and a more favorable business environment for both small and large enterprises.
         </p>
         <p>
-          Our account managers are trained to only reply to client emails after
-          9pm, several days after the initial email. This reinforces the general
-          aura that we are very busy and dissuades clients from asking for
-          changes.
+        What sets Mr Gitonga apart is their holistic approach to economic impact. He recognizes that economic growth should be inclusive,
+         benefiting all segments of the community.
+          Mr Gitonga actively seeks ways to address income inequality, provide support for struggling businesses, 
+          and promote workforce development. his focus on sustainability ensures that economic growth today does not come at the expense of future generations.
         </p>
       </div>
       <Blockquote author={{ name: "Debra Fiscal", role: "CEO of Unseal" }}
         className="mt-12">
-                 Studio_clone were so regular with their progress updates we almost began
-        to think they were automated!
+                  value-driven approach to economic impact is a testament to their deep-rooted commitment to the well-being of our community. 
       </Blockquote>
     </Section>
   )
